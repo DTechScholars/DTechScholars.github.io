@@ -84,6 +84,11 @@ of those sections to manage the look and feel of the site. */
     text-align: left;
 }
 
+#techThing{
+    width: 90%;
+    height: 90%;
+}
+
 .bounce-up .subject {
   opacity: 0;
   -moz-transition: all 700ms ease-out;
